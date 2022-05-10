@@ -1,4 +1,4 @@
-# Projeto => { Agenda } 📝
+# => { Agenda } 📝
 > Projeto feito para unificação de conceitos vistos em aula, como: classes, async functions, promises, rotas, middlewares, padrão MVC, CRUD e etc...
 <p align="center">
   <img src="https://github.com/tavinhoo/projeto-Agenda/blob/main/frontend/assets/initial-page.jpeg" alt="projeto Agenda">
